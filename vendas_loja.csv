@@ -1,0 +1,21 @@
+Data,Vendedor,Produto,Quantidade,Valor Unitário,Forma de Pagamento,Região
+2025-10-01,Ana,Mouse,3,89.90,Cartão de Crédito,Sul
+2025-10-02,João,,2,129.90,Pix,Sudeste
+2025-10-03,Pedro,Monitor,1,999.00,Boleto,Nordeste
+2025-10-04,Ana,Headset,4,199.90,Cartão de Débito,Sul
+2025-10-05,João,Mousepad,5,39.90,Pix,Sudeste
+2025-10-05,Pedro,Notebook,1,3500.00,Cartão de Crédito,Nordeste
+2025-10-06,Ana,,2,89.90,Boleto,Sul
+2025-10-06,Lucas,Teclado,1,129.90,Pix,Centro-Oeste
+2025-10-07,João,Monitor,2,999.00,Cartão de Crédito,Sudeste
+2025-10-07,Pedro,Mousepad,,39.90,Boleto,Nordeste
+2025-10-08,Lucas,Notebook,1,3500.00,Pix,Centro-Oeste
+2025-10-09,Ana,Headset,2,199.90,Cartão de Crédito,Sul
+2025-10-10,Pedro,Teclado,4,129.90,Pix,Nordeste
+2025-10-11,João,Mouse,1,89.90,Cartão de Crédito,Sudeste
+2025-10-12,Lucas,Monitor,1,999.00,Boleto,Centro-Oeste
+2025-10-13,Ana,Notebook,1,3500.00,Pix,Sul
+2025-10-14,Pedro,Headset,3,,Cartão de Débito,Nordeste
+2025-10-15,Lucas,Mousepad,4,39.90,Pix,Centro-Oeste
+2025-10-15,João,Teclado,2,129.90,Cartão de Crédito,Sudeste
+2025-10-16,Ana,Monitor,1,999.00,Boleto,Sul
