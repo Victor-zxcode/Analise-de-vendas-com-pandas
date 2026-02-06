@@ -5,7 +5,7 @@ Neste projeto eu coloco em prática meus estudos da biblioteca **Pandas**. O pro
 ## 🚀 Demonstração
 Aqui está uma visualização do projeto em execução:
 
-![Demonstração do Projeto](./screenshot.png)
+![Demonstração do Projeto](./Figure_1.png)
 
 ## 🛠️ Tecnologias Utilizadas
 * **Python** (Linguagem principal)
